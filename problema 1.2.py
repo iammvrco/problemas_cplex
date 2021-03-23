@@ -1,3 +1,6 @@
+# Marco Antonio Vázquez Rivera
+# Judith Alejandra Candelaria Sánchez
+
 import cplex
 
 problem = cplex.Cplex()
